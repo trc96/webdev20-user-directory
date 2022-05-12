@@ -1,0 +1,34 @@
+h1, h2, h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.body-background {
+    background-color: #313638;
+    /* padding: 50px 10px 100% 10px; */
+    height: 100%;
+}
+
+.body-main {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    max-width: 50%;
+    /* height: 40vh; */
+    padding: 0 10px 0 10px;
+    margin: 0 25% 0 25%;
+    text-align: left;
+}
+
+.person-counter {
+    text-align: right;
+}
+
+.person-name {
+    padding-bottom: 10px;
+}
+
+.person-info {
+    padding-bottom: 10px;
+}
