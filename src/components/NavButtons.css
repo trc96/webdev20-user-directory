@@ -17,19 +17,19 @@
     border: 1px solid #00B1FC;
     height: auto;
     width: auto;
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 15px;
 }
 
 .previous-button {
     color: white;
     background-color: #313638;
     border: 0;
-    padding: 0 25% 0 0;
+    padding: 0 14.5% 0 0;
 }
 
 .next-button {
     color: white;
     background-color: #313638;
     border: 0;
-    padding: 0 0 0 25%;
+    padding: 0 0 0 20%;
 }

@@ -5,8 +5,8 @@ h1, h2, h3, ol, ul, li {
 
 .body-background {
     background-color: #313638;
-    padding: 50px 10px 90% 10px;
-    height: 100%;
+    padding: 50px 10px 59.35vh 10px;
+    /* height: 100%; */
 }
 
 .body-main {
@@ -14,10 +14,11 @@ h1, h2, h3, ol, ul, li {
     flex-direction: column;
     background-color: white;
     justify-content: center;
-    max-width: 50%;
+    align-content: center;
+    max-width: 30%;
     height: 30%;
     padding: 0 10px 50px 50px;
-    margin: 0 25% 0 25%;
+    margin: 0 auto 0 auto;
     text-align: left;
 }
 
@@ -26,7 +27,7 @@ h1, h2, h3, ol, ul, li {
 }
 
 .person-name {
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     text-decoration: underline;
     text-decoration-color: #00B1FC;
 }

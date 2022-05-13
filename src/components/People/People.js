@@ -2,251 +2,253 @@ const People = [
     {
         id: 1,
         name: 'Andrew Turner',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Dallas, TX',
+        jobTitle: 'Instructor',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 2,
         name: 'Brady Bott',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Phoenix, AZ',
+        jobTitle: 'Instructor',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 3,
         name: 'Adam Mackey',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Raleigh, NC',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 4,
         name: 'Jalissa Randle',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Madison, WI',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 5,
         name: 'Connor McCrory',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Boise, ID',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 6,
         name: 'Tim V.',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Lincoln, NE',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 7,
         name: 'Max Lythgoe',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Concord, NH',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 8,
         name: 'Todd Crandall',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Mapelton, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 9,
         name: 'Miranda R.',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Salt Lake City, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 10,
         name: 'Ibrahim Mohamed',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Columbus, OH',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 11,
         name: 'Jamie Smith',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Bismark, ND',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 12,
         name: 'Arthur Baronov',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Oklahoma City, OK',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 13,
         name: 'Amie Perkins',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Des Moines, IA',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 14,
         name: 'Sefton Dockstader',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Denver, CO',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 15,
         name: 'Brett Stevens',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Nashville, TN',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 16,
         name: 'Alex Lamb',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Atlanta, GA',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 17,
         name: 'Israel Getu',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Helena, MT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 18,
         name: 'Palmer Hatch',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Olympia, WA',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 19,
         name: 'Nate Mena',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'St. Paul, MN',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 20,
         name: 'Gerardo Padilla',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Montpelier, VT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 21,
         name: 'Mia Crandall',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Mapleton, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 22,
         name: 'Dawson Crandall',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Mapleton, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 23,
         name: 'Olivia Crandall',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Mapleton, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 24,
         name: 'Sam Dawe',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Spanish Fork, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     },
     {
         id: 25,
         name: 'Andy Dawe',
-        from: '',
-        jobTitle: '',
-        employer: '',
-        movie1: '',
-        movie2: '',
-        movie3: ''
+        from: 'Spanish Fork, UT',
+        jobTitle: 'Student',
+        employer: 'Devmountain',
+        movie1: 'Back to the Future',
+        movie2: 'Back to the Future Part II',
+        movie3: 'Back to the Future Part III'
     }
 ]
+
+export default People
