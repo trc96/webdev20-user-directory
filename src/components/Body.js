@@ -57,11 +57,11 @@ const Body = () => {
           <h3>Employer:</h3>
         </div>
         <div className="favorite-movies">
-          <h3>Favorite Movies:</h3>
-          <ol>
-            <li>Movie 1</li>
-            <li>Movie 2</li>
-            <li>Movie 3</li>
+          <h3 className="favorite-thing">Favorite Movies:</h3>
+          <ol className="favorites-list">
+            <li className="favorite-list-item">Movie 1</li>
+            <li className="favorite-list-item">Movie 2</li>
+            <li className="favorite-list-item">Movie 3</li>
           </ol>
         </div>
       </div>
